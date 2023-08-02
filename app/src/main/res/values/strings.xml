@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ScoreTracker</string>
+    <string name="new_game_button">new game button</string>
+    <string name="new_round">New Round</string>
+    <string name="app_logo_image">app logo image</string>
+    <string name="placeholder_text">placeholder</string>
+    <string name="default_player_name">player</string>
+    <string name="hole_number"><u>0</u></string>
+    <string name="end_game_string">Finish Game</string>
+    <string name="score">Score</string>
+    <string name="hole">Hole</string>
+    <string name="player_score"><u>0</u></string>
+</resources>
